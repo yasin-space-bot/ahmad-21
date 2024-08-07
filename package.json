@@ -4,7 +4,7 @@
   "description": "Belajar NodeJS Sederhana",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node index.js"
   },
   "keywords": [
     "Belajar",
@@ -12,6 +12,4 @@
   ],
   "author": "Yasin",
   "license": "ISC"
-}git
-git init
-
+}
