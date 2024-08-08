@@ -1,0 +1,21 @@
+{
+  "name": "backend-uin",
+  "version": "1.0.0",
+  "description": "Belajar NodeJS Sederhana",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "Belajar",
+    "NodeJS"
+  ],
+  "author": "Yasin",
+  "license": "ISC"
+}
+
+// variabel name
+let name = "Ahmad Nur Yasin";
+let age = "23";
+let university = "UIN Raden Intan Lampung";
+
